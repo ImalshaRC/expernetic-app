@@ -1,0 +1,59 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.vscode
+*.sln.iml
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+*.exe
+
+# Rider
+.idea/
+
+# NuGet
+*.nuget/
+*.nupkg
+*.pfx
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# Logs
+*.log
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# .NET Scaffolding
+Scaffolding/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
